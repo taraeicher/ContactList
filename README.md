@@ -1,1 +1,1 @@
-# ContactList
+This program displays a contact for each department in a hypothetical company based on the user's selection in a form. It is designed for use with Visual Studio, and code and designer files are provided here.
